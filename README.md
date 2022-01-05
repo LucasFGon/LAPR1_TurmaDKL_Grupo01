@@ -14,6 +14,5 @@
 > Carregar **Repository > Push** ou **Ctrl+P.**<br><br>
 > 
 > *Puxar ficheiros:* **Repository > Pull** ou **Ctrl+Shift+P.**
-<br>
 
 [//]: # (Versão final!)
