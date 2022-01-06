@@ -1,7 +1,0 @@
-clone:
-  depth: full
-pipelines:
-  default:
-    - step:
-        script:
-          - git push --mirror git@bitbucket.org:lucasgon/lapr1_turmadkl_grupo01.git
